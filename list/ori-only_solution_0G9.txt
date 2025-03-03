@@ -1,0 +1,24 @@
+SOURCE_NAME
+S Per
+HD 22468
+HD 283572
+V1046 Ori
+HD 37150
+VY CMa
+BH CVn
+Cyg X-1
+HD 199178
+AR Lac
+IM Peg
+PZ Cas
+UV Psc
+HD 8357
+RZ Cas
+54 Cam
+IL Hya
+DK Dra
+RS CVn
+del Lib
+AR Mon
+DM UMa
+HD 179094
